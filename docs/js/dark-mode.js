@@ -1,6 +1,6 @@
-
+//this will enable a dark mode feature in the app
   var nightModeToggleButton = document.querySelector(".nightmode");
-  var h1 = document.querySelector("h1");
+  car h1 = document.querySelector("h1");
   var row = document.querySelector(".row-parent");
   var body = document.querySelector("body");
 
